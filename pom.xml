@@ -8,10 +8,10 @@
         <packaging>jar</packaging>
 
         <name>maven-stanalone-application</name>
-        <url>http://mylandmarktech.com</url>
+        <url>http://thecornelis.com</url>
 
         <organization>
-                <name>Landmark Technologies</name>
+                <name>TheCornelis Inc</name>
                 <url>http://theocornelis.com/</url>
         </organization>
 
